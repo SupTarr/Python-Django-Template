@@ -2,7 +2,7 @@
 
 ## About The Project
 
-This project was completed as part of `Writing your first Django app,` form `Django documentation`. I am tasked to make full use of our Django and Python knowledge and its accompanying documentation to create a APIs for polls and vote.
+This project was completed as part of `Writing your first Django app` form `Django documentation`. I am tasked to make full use of our Django and Python knowledge and its accompanying documentation to create a APIs for polls and vote.
 
 ## Technologies
 
@@ -14,7 +14,7 @@ This project was created with:
 
 ## Installation
 
-### Set up Python
+### Set up Python and packages
 
 To install `Python` on your machine go to [Python Download](https://www.python.org/downloads/).
 
@@ -51,6 +51,8 @@ Output installed packages in `requirements` format.
 ```cmd
 pip3 freeze > requirements.txt
 ```
+
+### Set up Django and run server locally
 
 Create a `mysite` directory in your current directory.
 
