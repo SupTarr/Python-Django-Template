@@ -1,4 +1,20 @@
-# Set up Django
+# Python Django Template
+
+## About The Project
+
+This project was completed as part of `Writing your first Django app,` form `Django documentation`. I am tasked to make full use of our Django and Python knowledge and its accompanying documentation to create a APIs for polls and vote.
+
+## Technologies
+
+This project was created with:
+
+- Python
+- Django
+- PostgreSQL
+
+## Installation
+
+### Set up Python
 
 To install `Python` on your machine go to [Python Download](https://www.python.org/downloads/).
 
