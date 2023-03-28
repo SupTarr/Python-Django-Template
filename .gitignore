@@ -120,3 +120,5 @@ static/
 pyvenv.cfg
 .venv
 pip-selfcheck.json
+
+.hintrc
