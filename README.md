@@ -2,7 +2,7 @@
 
 ## About The Project
 
-This project was completed as part of `Writing your first Django app` form `Django documentation`. I am tasked to make full use of our Django and Python knowledge and its accompanying documentation to create a APIs for polls and vote.
+This project was completed as part of `Writing your first Django app` form `Django documentation`. I am tasked to make full use of Django and Python knowledge and its accompanying documentation to create an APIs for polls and vote.
 
 ## Technologies
 
