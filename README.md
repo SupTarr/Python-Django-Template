@@ -14,6 +14,12 @@ This project was created with:
 
 ## Installation
 
+Clone the project
+
+```sh
+git clone https://github.com/SupTarr/Python-Django-Template
+```
+
 ### Set up Python and packages
 
 To install `Python` on your machine go to [Python Download](https://www.python.org/downloads/).
@@ -43,13 +49,7 @@ To activate the environment, run:
 In the command prompt, ensure your virtual environment is active, and execute the following command:
 
 ```cmd
-py -m pip install Django
-```
-
-Output installed packages in `requirements` format.
-
-```cmd
-pip3 freeze > requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Set up Django and run server locally
