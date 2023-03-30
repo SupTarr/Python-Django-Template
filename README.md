@@ -14,6 +14,8 @@ This project was created with:
 
 ## Installation
 
+### Run Locally
+
 Clone the project
 
 ```sh
